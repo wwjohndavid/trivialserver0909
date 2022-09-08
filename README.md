@@ -113,7 +113,7 @@ The quiz source is a JSON object. You can use [react-quiz-form](https://github.c
 
 ## Demo
 
-The demo is available at https://triviaproject0908.herokuapp.com/
+The demo is available at https://trivialserver0909.herokuapp.com/
 
 ## License
 
